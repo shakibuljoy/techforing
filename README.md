@@ -15,7 +15,7 @@ Follow these steps to set up the Django project on your local machine.
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/techforing.git
+    git clone https://github.com/shakibuljoy/techforing.git
     cd techforing
     ```
 
